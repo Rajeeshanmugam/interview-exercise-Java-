@@ -35,6 +35,15 @@ Develop a basic implementation of the PriceListener interface that provides the 
 1. Executes a single "buy" instruction for a specified number of lots (e.g. 100) as soon as the price of that stock is seen to be below
 a specified price (e.g. 55.0). Don’t worry what units that is in. 
 
+Given Input:
+input price is given as (45.17)(23.89)(14.45)(67.34)(10.67)
+
+output taken:
+Stock IBM of 100 units for amount 4517.0 has been bought successfully
+Stock IBM of 100 units for amount 2389.0 has been bought successfully
+Stock IBM of 100 units for amount 1445.0 has been bought successfully
+Stock IBM of 100 units for amount 1067.0 has been bought successfully
+
 ### Considerations
 
 * Please "work out loud" and ask questions
